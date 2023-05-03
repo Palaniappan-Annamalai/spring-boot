@@ -10,7 +10,7 @@ public class DevopsController {
     @GetMapping(path = "/get")
     public String getData(){
 
-        return "Hi";
+        return "Hi Devops";
     }
 
 }
